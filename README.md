@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**WaseelSharar/WaseelSharar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Waseel! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I want to become a python programmer
+
+
+## 🛠 Skills
+
+
+
+## Lessons Learned
+
+Nothing is easy but possible.
+
+
+## Other Common Github Profile Sections
+
+👩‍💻 I'm 12 years old
+
+🧠 I'm currently learning programming
+
+🤔 I'm looking for help with...
+
+💬 Ask me about my learning process
+
+
