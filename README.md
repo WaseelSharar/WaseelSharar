@@ -8,6 +8,8 @@ I want to become a python programmer
 
 ## 🛠 Skills
 
+Soon will be included.
+
 
 
 ## Lessons Learned
