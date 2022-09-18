@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I want to become a python programmer
+I want to become a programmer
 
 
 ## 🛠 Skills
